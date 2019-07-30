@@ -39,7 +39,7 @@ android:
   - google-gdk-license-.+
 
 before_install:
-- openssl aes-256-cbc -K $encrypted_839e38d787bc_key -iv $encrypted_839e38d787bc_iv -in release.jks.enc -out release.jks -d
+- openssl aes-256-cbc -K $encrypted_265b8ebc415d_key -iv $encrypted_265b8ebc415d_iv -in release.jks.enc -out release.jks -d
 - chmod +x gradlew
 - "./gradlew dependencies || true"
 
