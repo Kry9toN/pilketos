@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">NEW ELECTION</string>
+    <string name="app_name">PILKETOS SMEKSADA</string>
     <string name="title_activity_welcome">Home Screen</string>
     <string name="next">SELANJUTNYA</string>
     <string name="skip">SKIP</string>
     <string name="start">MASUK</string>
 
-    <string name="slide_1_title">SMK Informatika Sumedang</string>
+    <string name="slide_1_title">SMKN 1 UDANAWU</string>
     <string name="slide_1_desc">VISI \n
 Pada tahun 2015 menjadi sekolah pusat pendidikan dan latihan dan menciptakan Sumber Daya Manusia Professional, Beriman dan Bertaqwa terhadap Tuhan Yang Maha Esa di wilayah periangan.\n
 \nMISI\n
